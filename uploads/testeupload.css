@@ -1,0 +1,86 @@
+
+hr {
+	color: sienna;
+	}
+
+p {
+	margin-left: 20px;
+}
+
+.body {
+	background-color: #fff;
+}
+
+table {
+  border: 0px solid Gray;
+  background-color: #cdcdcd;
+  padding:0px;
+}
+
+
+.dash_main {
+	background-color: #fff;
+}
+
+.index {
+	background-color: #fff;
+}
+
+.mainmenu {
+  border: 0px solid Gray;
+  background-color: #cdcdcd;
+  font-family: Arial;
+  font-size:14px;
+}
+
+.titGrid {
+  border: 1px solid Gray;
+  background-color: #666;
+  font-family: Arial;
+  font-size:12px;
+  color:#fff;
+}
+.gridList {
+  border: 1px solid #fff;
+  background-color: #fff;
+  font-family: Arial;
+  font-size:12px;
+  color:#000;
+  cursor: pointer;
+}
+
+
+.btnMenu {
+  background-color: #4CAF50;
+  border: 1px solid #ccc;
+  color: white;
+  padding: 8px 8px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  width:180px;
+  cursor:pointer;
+}
+
+.btnMenu:hover {
+  background-color: #000;
+}
+
+.btnDefault {
+  background-color: #999;
+  border: 1px solid #ccc;
+  padding: 8px 8px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  width:90px;
+  height:28px;
+  cursor:pointer;
+}
+
+.btnDefault:hover {
+  background-color: #000;
+  color:#fff;
+}
